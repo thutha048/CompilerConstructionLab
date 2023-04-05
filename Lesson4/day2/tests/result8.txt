@@ -1,0 +1,3 @@
+Program EXAMPLE8
+    Var I : Int
+    Var C : Char

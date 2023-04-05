@@ -1,0 +1,12 @@
+Program Example_S; (* Example 1 *)
+Var 
+    i : integer;
+Begin
+    i := 4 %2 ;
+    i := 4 +2;
+    i *= 4;
+    i /= 4;
+    i -= 4;
+    
+End. (* Example 1 *)
+

@@ -1,0 +1,14 @@
+Program Example8; (* Example 8 *)
+   
+Var 
+    i : integer;
+    c : char;
+
+Begin
+  i := 8 % 4;
+  i += 4;
+  i -= 4;
+  i *= 4;
+  i /= 8;
+  i := c % 4; (*Syntax is correct, semantic is incorrect*)
+End. (* Example 8 *)

@@ -1,0 +1,11 @@
+Program Example_23; (* Example 1 *)
+Var 
+    i : integer;
+    str : array (. 50 .) of char;
+Begin
+    i := i %2 ;
+    i *= 4;
+    i /= 4;
+    i -= 4;
+    str := "Ha noi University of Science Technology"; 
+End. (* Example 1 *)
